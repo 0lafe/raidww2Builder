@@ -1,0 +1,11 @@
+.skill_1 {
+  background-position: calc((0% / (512 - 80)) * 100) calc((0% / (1024 - 80)) * 100);
+}
+
+.skill_last {
+  background-position: calc((320% / (512 - 80)) * 100) calc((960% / (1024 - 80)) * 100);
+}
+
+.skill_test {
+  background-position: 50% 50%;
+}
