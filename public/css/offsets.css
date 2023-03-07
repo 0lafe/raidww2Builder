@@ -1,11 +1,100 @@
-.skill_1 {
-  background-position: calc((0% / (512 - 80)) * 100) calc((0% / (1024 - 80)) * 100);
+.warcry_assault {
+  background-position: calc(((78% * 0) / (512 - 80)) * 100) calc(((78% * 10) / (1024 - 80)) * 100);
 }
 
-.skill_last {
-  background-position: calc((320% / (512 - 80)) * 100) calc((960% / (1024 - 80)) * 100);
+.juggler {
+  background-position: calc(((78% * 3) / (512 - 80)) * 100) calc(((78% * 8) / (1024 - 80)) * 100);
 }
 
-.skill_test {
-  background-position: 50% 50%;
+.mounted_gunner {
+  background-position: calc(((78% * 0) / (512 - 80)) * 100) calc(((78% * 7) / (1024 - 80)) * 100);
 }
+
+.agile {
+  background-position: calc(((78% * 1) / (512 - 80)) * 100) calc(((78% * 9) / (1024 - 80)) * 100);
+}
+
+.iron_jaw {
+  background-position: calc(((78% * 0) / (512 - 80)) * 100) calc(((78% * 6) / (1024 - 80)) * 100);
+}
+
+.concentration {
+  background-position: calc(((78% * 1) / (512 - 80)) * 100) calc(((78% * 3) / (1024 - 80)) * 100);
+}
+
+.up_and_at_em {
+  background-position: calc(((78% * 5) / (512 - 80)) * 100) calc(((78% * 5) / (1024 - 80)) * 100);
+}
+
+.touch_customer {
+  background-position: calc(((78% * 4) / (512 - 80)) * 100) calc(((78% * 5) / (1024 - 80)) * 100);
+}
+
+.first_aid {
+  background-position: calc(((78% * 5) / (512 - 80)) * 100) calc(((78% * 2) / (1024 - 80)) * 100);
+}
+
+.slow_bleeder {
+  background-position: calc(((78% * 3) / (512 - 80)) * 100) calc(((78% * 5) / (1024 - 80)) * 100);
+}
+
+.incrased_team_heal {
+  background-position: calc(((78% * 5) / (512 - 80)) * 100) calc(((78% * 8) / (1024 - 80)) * 100);
+}
+
+.increased_low_health_meter_bonus {
+  background-position: calc(((78% * 2) / (512 - 80)) * 100) calc(((78% * 9) / (1024 - 80)) * 100);
+}
+
+.warcry_duration_increase_1 {
+  background-position: calc(((78% * 2) / (512 - 80)) * 100) calc(((78% * 10) / (1024 - 80)) * 100);
+}
+
+.fitness_freak {
+  background-position: calc(((78% * 2) / (512 - 80)) * 100) calc(((78% * 5) / (1024 - 80)) * 100);
+}
+
+.second_wind {
+  background-position: calc(((78% * 1) / (512 - 80)) * 100) calc(((78% * 5) / (1024 - 80)) * 100);
+}
+
+.strong_back {
+  background-position: calc(((78% * 5) / (512 - 80)) * 100) calc(((78% * 4) / (1024 - 80)) * 100);
+}
+
+.bullet_proof {
+  background-position: calc(((78% * 2) / (512 - 80)) * 100) calc(((78% * 2) / (1024 - 80)) * 100);
+}
+
+.duck_and_cover {
+  background-position: calc(((78% * 3) / (512 - 80)) * 100) calc(((78% * 6) / (1024 - 80)) * 100);
+}
+
+.evasive {
+  background-position: calc(((78% * 2) / (512 - 80)) * 100) calc(((78% * 6) / (1024 - 80)) * 100);
+}
+
+.brutallity {
+  background-position: calc(((78% * 1) / (512 - 80)) * 100) calc(((78% * 0) / (1024 - 80)) * 100);
+}
+
+.marksman {
+  background-position: calc(((78% * 3) / (512 - 80)) * 100) calc(((78% * 0) / (1024 - 80)) * 100);
+}
+
+.focus_fire {
+  background-position: calc(((78% * 5) / (512 - 80)) * 100) calc(((78% * 1) / (1024 - 80)) * 100);
+}
+
+.burglar {
+  background-position: calc(((78% * 0) / (512 - 80)) * 100) calc(((78% * 4) / (1024 - 80)) * 100);
+}
+
+.nimble_fingers {
+  background-position: calc(((78% * 1) / (512 - 80)) * 100) calc(((78% * 4) / (1024 - 80)) * 100);
+}
+
+.fast_hands {
+  background-position: calc(((78% * 0) / (512 - 80)) * 100) calc(((78% * 2) / (1024 - 80)) * 100);
+}
+

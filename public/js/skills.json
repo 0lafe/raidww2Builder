@@ -1,0 +1,14 @@
+{
+  "assault" : [
+    [null, "warcry_assault", null],
+    ["juggler", "mounted_gunner", "agile"],
+    ["iron_jaw", "concentration", "up_and_at_em"],
+    ["touch_customer", "first_aid", "slow_bleeder"],
+    ["incrased_team_heal", "increased_low_health_meter_bonus", "warcry_duration_increase_1"],
+    ["fitness_freak", "second_wind", "strong_back"],
+    ["bullet_proof", "duck_and_cover", "evasive"],
+    ["brutallity", "marksman", "focus_fire"],
+    ["burglar", "nimble_fingers", "fast_hands"],
+    [null, "warcry_assault", null]
+  ]
+}
