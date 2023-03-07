@@ -24,6 +24,11 @@
   margin: 1rem;
 }
 
+.level {
+  scale: 2;
+  text-align: center;
+}
+
 /* Tooltip container */
 .tooltip {
   position: relative;

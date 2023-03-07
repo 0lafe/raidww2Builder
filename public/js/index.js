@@ -13,7 +13,8 @@ const getSkillData = async () => {
 }
 
 const handleSelect = (e) => {
- if (!e.currentTarget.value.enabled && !selectedSkills[e.currentTarget.value.row]) {
+  e.preventDefault()
+  if (!e.currentTarget.value.enabled && !selectedSkills[e.currentTarget.value.row]) {
     e.currentTarget.value.enabled = true
     e.currentTarget.className = e.currentTarget.className.replace('sk_icon', 'selected_sk_icon')
     selectedSkills[e.currentTarget.value.row] = true
@@ -36,6 +37,7 @@ const handleHover = (e) => {
 const top_row = document.getElementById('top_row')
 const middle_row = document.getElementById('middle_row')
 const bottom_row = document.getElementById('bottom_row')
+const levels = document.getElementById('levels')
 
 const rows = [top_row, middle_row, bottom_row]
 
@@ -64,6 +66,11 @@ getSkills().then((skills) => {
         }
         rows[i].appendChild(skill_container)
       })
+
+      const currentLevel = document.createElement('td')
+      currentLevel.className = 'level'
+      currentLevel.innerText = index + 1
+      levels.appendChild(currentLevel)
     })
   })
 })
